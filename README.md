@@ -23,8 +23,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapnesh-dev&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnesh-dev&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnesh-dev&show_icons=true&theme=tokyonight" width="49%" />
 </p>
 
 
