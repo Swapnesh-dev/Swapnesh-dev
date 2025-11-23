@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=swapnesh-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="swapnesh-dev" />
   </a>
 </p>
@@ -39,7 +39,7 @@ I'm a passionate software engineer specializing in modern web technologies and i
 ## 🎨 React WebGL Projects
 
 <div align="center">
-  <a href="https://three.swapnesh.icu/">
+  <a href="https://three.swapnesh.icu/" target="_blank">
     <img src="./img/FlyControl.gif" alt="Three.js Demo Preview" width="80%" />
   </a>
   <p><i>Explore my interactive 3D web experiences!</i></p>
@@ -114,5 +114,5 @@ I'm a passionate software engineer specializing in modern web technologies and i
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Swapnesh-dev">Swapnesh-dev</a></i>
+  <i>⭐️ From <a href="https://github.com/Swapnesh-dev" target="_blank">Swapnesh-dev</a></i>
 </p>
