@@ -21,7 +21,7 @@ I'm a passionate software engineer specializing in modern web technologies and i
 - 🌱 Constantly learning **Three.js, WebGL, and advanced frontend architectures**
 - 💡 Passionate about creating **immersive 3D web experiences**
 - 📫 Reach me at: **business.swapnesh@gmail.com**
-- 🌐 Portfolio: **https://three.swapnesh.icu**
+- 🌐 Portfolio: **https://profile.swapnesh.store**
 
 ---
 
