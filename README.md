@@ -39,7 +39,7 @@ I'm a passionate software engineer specializing in modern web technologies and i
 ## 🎨 React WebGL Projects
 
 <div align="center">
-  <a href="https://three.swapnesh.icu/" target="_blank">
+  <a href="https://three.swapnesh.store/" target="_blank">
     <img src="./img/FlyControl.gif" alt="Three.js Demo Preview" width="80%" />
   </a>
   <p><i>Explore my interactive 3D web experiences!</i></p>
